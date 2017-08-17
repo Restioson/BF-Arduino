@@ -1,0 +1,9 @@
+[submodule "arduino"]
+	path = arduino
+	url = https://github.com/avr-rust/arduino
+[submodule "rlibc"]
+	path = rlibc
+	url = https://github.com/Restioson/rlibc
+[submodule "libcore"]
+    path = libcore
+    url = https://https://github.com/gergoerdi/rust-avr-libcore-mini

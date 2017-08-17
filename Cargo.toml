@@ -1,0 +1,9 @@
+[package]
+name = "bf_arduino"
+version = "0.1.0"
+authors = ["restioson <restiosondev@gmail.com>"]
+
+[dependencies]
+rlibc = { path = "rlibc/" }
+core = { path =  "libcore/" }
+arduino = { path = "arduino/" }
